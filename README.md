@@ -1,0 +1,1 @@
+A minimalist to-do app created using React and Django.
